@@ -1,0 +1,65 @@
+.p1
+{
+    background-color: #e3e3e3;
+    border: 5px blue  ;
+    border-style: inherit;
+    height: 1200px;
+
+  
+
+}
+
+
+.three
+
+{
+    float: right;
+    display:flex;
+}
+
+.a1
+{
+ text-align: center;
+ font-size: 80px;
+ font-weight: bold;
+ font-style: italic;
+ margin-top: 0px;
+ display: inline;
+ margin: 20px;
+
+}
+
+
+img
+{
+    float: left;
+    margin-right: 500px; ;
+}
+p
+{
+    text-align: left;
+    font-size: 20px;
+}
+.acc
+{
+    border: none;
+    color: rgb(199, 25, 25);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: top right;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 150px;
+    margin-bottom: 25px;
+    margin-top: 35px ;
+}
+*
+{
+    font-style: italic;
+    font-size: xx-large;
+}
